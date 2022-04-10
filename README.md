@@ -37,24 +37,4 @@ https://www.figma.com/file/DlW06oNVlv416QmyyNbxgT/HCI_A1_GC?node-id=2%3A3
 
 # Assignment 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/14067180/162639381-70ffd2a4-a410-4958-8cde-6292f7fbd4bc.png)
